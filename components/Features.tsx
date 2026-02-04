@@ -3,7 +3,7 @@ import { Cpu, DollarSign, Palette } from 'lucide-react';
 
 const Features: React.FC = () => {
   return (
-    <section id="features" className="py-24 bg-white">
+    <section id="features" className="py-24 bg-slate-50">
       <div className="max-w-7xl mx-auto px-6">
         <div className="text-center mb-16 max-w-3xl mx-auto">
           <h2 className="text-slate-900 text-3xl md:text-5xl font-black tracking-tight mb-6">Master Every Detail</h2>
